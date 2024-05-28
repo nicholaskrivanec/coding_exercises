@@ -1,0 +1,13 @@
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.exe
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.deps.json
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.runtimeconfig.json
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.runtimeconfig.dev.json
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.dll
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\bin\Debug\netcoreapp3.1\FileDecoder.pdb
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.csproj.CoreCompileInputs.cache
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.AssemblyInfoInputs.cache
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.AssemblyInfo.cs
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.dll
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.pdb
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.genruntimeconfig.cache
+C:\Users\nkriv_000\Source\Repos\FileDecoder\FileDecoder\obj\Debug\netcoreapp3.1\FileDecoder.csprojAssemblyReference.cache
